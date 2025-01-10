@@ -1,3 +1,5 @@
+# NOTE: This app is for testing various features, but the main project is on the Mood-Calendar repository. I will likely delete this repo at some point.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
